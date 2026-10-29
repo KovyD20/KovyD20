@@ -9,7 +9,7 @@ Currently a Technical Content Developer at Codecool, automating course productio
 #### Featured projects
 - **[EKS Corp](https://github.com/KovyD20/eks-corp)** — Multi-AZ EKS on AWS with modular Terraform, RDS, Secrets Manager, Pod Identity, Lambda health checks, remote state in S3 + DynamoDB.
 - **[Receptor](https://github.com/KovyD20/receptor)** — AI kitchen assistant: React, Express, PostgreSQL + Firestore, Firebase Auth, Gemini API, Vitest, GitHub Actions CI.
-
+- **[Project showcase](https://github.com/KovyD20/project-showcase)** — Team projects built in sprints (Java, Spring Boot, React, Node.js), Kubernetesand AWS DevOps labs, and the tools I build for myself with AI.
 #### Stack
 `AWS` `Terraform` `Kubernetes` `Docker` `Linux` `Bash` `GitHub Actions` `Jenkins` `Prometheus` `Grafana`
 `Python` `JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Firebase` `Claude Code` `MCP` `Playwright`
